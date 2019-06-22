@@ -63,3 +63,6 @@ As the project topics change every semester, my final poster is made publicly vi
 Question: [News Article](https://github.com/sijie123/nus_public/blob/master/ger1000/news_article.pdf), [Primary Source](https://github.com/sijie123/nus_public/blob/master/ger1000/primary_source.pdf)
 
 Final Poster: [PDF Poster](https://github.com/sijie123/nus_public/blob/master/ger1000/B06_04_poster.pdf)
+
+<embed src="https://github.com/sijie123/nus_public/raw/master/ger1000/B06_04_poster.pdf" width="100%" height="700px">
+</embed>
