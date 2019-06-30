@@ -4,7 +4,7 @@ This site contains a collection of materials used throughout my studies at Natio
 
 ## About
 This site is created to chart my personal progress during my time studying Computer Science at NUS School of Computing.
-It serves as a personal reference for the material I've learnt and acts as a central cataloguing for easy reference.
+It serves as a personal reference for the content I've learnt and material I've collated, and acts as a central cataloguing for easy reference.
 
 ## Hidden Content
 Some material on this site are hosted on a private Github/Gitlab repo, and are linked but not available for public view.
