@@ -20,13 +20,3 @@ PDF version: [Notes](https://github.com/sijie123/nus_public/blob/master/cs2030/s
 Ran the review qns through a shell, and collated the output into PDF.
 
 PDF version: [Review Qns](https://github.com/sijie123/nus_public/blob/master/cs2030/review_qns.pdf)
-
-## Lab Solutions
-
-My solutions to the lab exercises, as well as some model solutions.
-
-!> Content in this section is not publicly accessible.
-
-My solutions: [Labs](https://github.com/sijie123/nus/tree/master/cs2030/lab)
-
-Model solutions: [Labs](https://github.com/sijie123/nus/tree/master/cs2030/cs2030-sample-lab-solutions)

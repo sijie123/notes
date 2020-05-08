@@ -13,13 +13,3 @@ Cheatsheet: [Latex Version](https://github.com/sijie123/nus_public/blob/master/c
 
 <embed src="https://github.com/sijie123/nus_public/raw/master/cs2106/CS2106_finals_cheatsheet.pdf" width="100%" height="700px">
 </embed>
-
-## Lab Solutions
-
-!> Content in this section is not publicly accessible.
-
-* Lab 1: [GitHub](https://github.com/sijie123/nus/tree/master/cs2106/lab1)
-* Lab 2: [GitHub](https://github.com/sijie123/nus/tree/master/cs2106/lab2)
-* Lab 3: [GitHub](https://github.com/sijie123/nus/tree/master/cs2106/lab3)
-* Lab 4: [GitHub](https://github.com/sijie123/nus/tree/master/cs2106/lab4)
-* Lab 5: [GitHub](https://github.com/sijie123/nus/tree/master/cs2106/lab5)
